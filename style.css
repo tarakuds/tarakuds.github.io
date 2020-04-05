@@ -3,8 +3,6 @@ body{
 }
 
 main{
-    
-    /*padding:50px ;*/
     border: 15px;
     
     align-items: center;
@@ -19,28 +17,12 @@ main{
     margin-right: auto;
     display: block;
     height: 12vh;
-    /*padding: auto;
-    width: 100%;
-    */
-
-}
-/*img .logo{
-    padding-top: 0vh;
-    margin-top: 0vh;
-}*/
-
-/*.container{
-    width: 50vh;
-    border: 1px solid 15px;
-    align-content: center;
-    
-}*/
+    }
 
 div{
     padding: 5vh 10vh;
     background-color: whitesmoke;
     border-radius: 3vh;
-    /*padding-top: 0vh;*/
     padding-bottom: 30px;
     margin-left: 2vh;
     width: 40vh;
@@ -102,7 +84,6 @@ button{
     width: 35vh;
     height: 5vh;
     padding: 5px;
-   /* padding-left: 10px;*/
    align-content: center;
    text-align: center;
    color: white;
